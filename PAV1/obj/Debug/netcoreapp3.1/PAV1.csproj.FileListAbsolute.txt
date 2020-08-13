@@ -1,0 +1,13 @@
+F:\PAV1\PAV1\PAV1\obj\Debug\netcoreapp3.1\PAV1.csprojAssemblyReference.cache
+F:\PAV1\PAV1\PAV1\obj\Debug\netcoreapp3.1\PAV1.AssemblyInfoInputs.cache
+F:\PAV1\PAV1\PAV1\obj\Debug\netcoreapp3.1\PAV1.AssemblyInfo.cs
+F:\PAV1\PAV1\PAV1\obj\Debug\netcoreapp3.1\PAV1.csproj.CoreCompileInputs.cache
+F:\PAV1\PAV1\PAV1\bin\Debug\netcoreapp3.1\PAV1.exe
+F:\PAV1\PAV1\PAV1\bin\Debug\netcoreapp3.1\PAV1.deps.json
+F:\PAV1\PAV1\PAV1\bin\Debug\netcoreapp3.1\PAV1.runtimeconfig.json
+F:\PAV1\PAV1\PAV1\bin\Debug\netcoreapp3.1\PAV1.runtimeconfig.dev.json
+F:\PAV1\PAV1\PAV1\bin\Debug\netcoreapp3.1\PAV1.dll
+F:\PAV1\PAV1\PAV1\bin\Debug\netcoreapp3.1\PAV1.pdb
+F:\PAV1\PAV1\PAV1\obj\Debug\netcoreapp3.1\PAV1.dll
+F:\PAV1\PAV1\PAV1\obj\Debug\netcoreapp3.1\PAV1.pdb
+F:\PAV1\PAV1\PAV1\obj\Debug\netcoreapp3.1\PAV1.genruntimeconfig.cache
